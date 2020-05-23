@@ -5,15 +5,15 @@
 .war
 
 # gwt caches and compiled units #
-wargwt_bree
+war/gwt_bree
 gwt-unitCache
 
 # boilerplate generated classes #
 .apt_generated
 
 # more caches and things from deploy #
-warWEB-INFdeploy
-warWEB-INFclasses
+war/WEB-INF/deploy
+war/WEB-INF/classes
 
 #compilation logs
 .gwt
